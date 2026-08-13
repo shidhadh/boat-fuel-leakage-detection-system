@@ -1,4 +1,4 @@
-# 🚤 Boat Fuel Leakage Detection and Automatic Motor Shutdown System
+#  Boat Fuel Leakage Detection and Automatic Motor Shutdown System
 
 ## 📌 Project Overview
 
